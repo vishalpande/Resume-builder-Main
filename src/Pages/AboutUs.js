@@ -56,7 +56,7 @@ export default function ButtonMUI() {
             <img
               src={aboutCV}
               alt="img"
-              // style={{width:"20%", height:"10%"}}
+        
             />
           </Stack>
         </Stack>
