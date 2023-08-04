@@ -76,39 +76,39 @@ export default function ButtonMUI() {
             Kindly Share in your circle
           </Typography>
           <Box className="icons">
-            <Link to="https://www.instagram.com/dp_vasani56/">
+            <Link to="">
               <Instagram
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="error"
               />
             </Link>
 
-            <Link to="https://www.facebook.com/darshan.vasani.923">
+            <Link to="">
               <FacebookOutlinedIcon
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="primary"
               />
             </Link>
 
-            <Link to="https://www.linkedin.com/in/darshan-vasani-3299ba245/">
+            <Link to="www.linkedin.com/in/vishalpande">
               <LinkedInIcon
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="primary"
               />
             </Link>
-            <Link to="https://web.whatsapp.com">
+            <Link to="">
               <WhatsAppIcon
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="success"
               />
             </Link>
-            <Link to="https://twitter.com/vasanidarshan56">
+            <Link to="">
               <TwitterIcon
                 sx={{ fontSize: "40px", paddingLeft: "15px" }}
                 color="info"
               />
             </Link>
-            <Link to="https://github.com/dpvasani">
+            <Link to="https://github.com/vishalpande">
               <GitHub
                 sx={{ fontSize: "40px", paddingLeft: "15px", color: "black" }}
               />
