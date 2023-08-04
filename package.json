@@ -1,8 +1,9 @@
 {
 
   "name": "resume-builder",
+
   "version": "0.1.0",
-  
+
   "homepage": "https://vishalpande.github.io/Resume-builder-Main",
 
   "private": true,
@@ -60,7 +61,7 @@
     "eject": "react-scripts eject",
 
     "predeploy": "npm run build",
-    
+
     "deploy": "gh-pages -d build"
 
   },
