@@ -9,7 +9,6 @@ import { Link } from "react-router-dom";
 import { Navbar } from "./";
 import aboutCV from "../Utils/Images/aboutCV.jpg";
 
-// the briefing of the website  nothing much only an overview of the resume@builder
 
 export default function ButtonMUI() {
   return (

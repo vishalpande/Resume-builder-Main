@@ -1,4 +1,4 @@
-//Initial values declared  to the reducer
+
 
 const initialSelectedTemplateState = {
   selectedTemplateId: null,

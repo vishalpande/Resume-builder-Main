@@ -9,10 +9,10 @@ const App = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <Routes>
-        {/* Home Page Route */}
+    
         <Route exact path="/" element={<Home />} />
 
-        {/* Details Filling Page */}
+    
         <Route
           exact
           path="/template/fill-details"
@@ -23,10 +23,10 @@ const App = () => {
           }
         />
 
-        {/* My Resumes Page */}
+   
         <Route exact path="/my/resumes" element={<MyResumes />} />
 
-        {/* About Us Page */}
+  
         <Route exact path="/about-us" element={<AboutUs />} />
       </Routes>
     </Router>

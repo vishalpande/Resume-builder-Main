@@ -10,8 +10,6 @@ const mapStateToProps = (state) => ({
   selectedTemplateId: state.selectedTemplateReducer.selectedTemplateId,
 });
 
-//mapStateToProps is used for selecting the part of the data from the store that the connected component needs
-// mapDispatchToProps allows you to specify which actions your component might need to dispatch
 
 const mapDispatchToProps = (dispatch) => ({
   setSelectedTemplateId: (id) => dispatch(selectTemplate(id)),
@@ -25,9 +23,7 @@ const Home = (props) => {
     navigate("/template/fill-details");
   };
 
-  // console.log(props.selectedTemplateId);
 
-  //setting the navbar active link so to identify on which tab/page you are at.
 
   return (
     <>

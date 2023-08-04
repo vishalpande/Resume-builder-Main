@@ -14,5 +14,4 @@ export { default as TemplateEducationComponent } from "../Components/TemplateEdu
 export { default as TemplateKeySkillComponent } from "../Components/TemplateKeySkill/TemplateKeySkillComponent";
 export { default as TemplateOneExperienceComponent } from "../Components/TemplateOneExperience/TemplateOneExperienceComponent";
 export { default as WorkExperienceComponent } from "../Components/WorkExperience/WorkExperienceComponent";
-// export { default as } from '../Components/';
-// export { default as  } from '../Components/';
+

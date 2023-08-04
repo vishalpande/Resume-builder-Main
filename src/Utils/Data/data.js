@@ -1,4 +1,4 @@
-//Dummy Data for testing purpose
+
 
 export const data = {
   personal_info: {

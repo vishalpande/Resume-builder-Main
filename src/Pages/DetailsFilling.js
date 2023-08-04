@@ -10,7 +10,6 @@ import {
 } from "./";
 import "./Styles/DetailsFilling.css";
 
-// As soon as details are filled for particular categories/sections browser moves further to next fields if ! then same field on same page
 
 const DetailsFilling = (props) => {
   const [tab, setTab] = useState(0);

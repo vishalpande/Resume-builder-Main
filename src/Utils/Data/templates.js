@@ -1,4 +1,4 @@
-// importing the  images of templates
+
 
 import template_1 from "../Images/sample_1.jpg";
 import template_2 from "../Images/sample_2.jpg";
@@ -6,7 +6,6 @@ import template_3 from "../Images/sample_3.jpg";
 import template_4 from "../Images/sample_4.jpg";
 
 
-// importing all the templates 
 
 import Template1 from "../Templates/Template1";
 import Template2 from "../Templates/Template2";
@@ -16,8 +15,6 @@ import Template5 from "../Templates/Template5";
 import Template6 from "../Templates/Template6";
 
 
-
-//templates are  exported to process further
 export const templates = [
   {
     id: 1,
