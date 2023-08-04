@@ -1,8 +1,9 @@
 {
 
   "name": "resume-builder",
-  "homepage": "https://vishalpande.github.io/Resume-builder-Main",
   "version": "0.1.0",
+  
+  "homepage": "https://vishalpande.github.io/Resume-builder-Main",
 
   "private": true,
 
