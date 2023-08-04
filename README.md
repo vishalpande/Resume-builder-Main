@@ -1,6 +1,6 @@
 Resume Builder Project - Created by Vishal Pande
 
-![Project Live](./demo.gif)
+Project Live Site:- https://vishalpande.github.io/Resume-builder-Main/
 
 Introduction
 The Resume Builder project is a web application built with React that allows users to create professional resumes effortlessly. With an intuitive user interface and pre-designed templates, the Resume Builder simplifies the process of resume creation, eliminating the need for design or formatting skills. As the creator of this project, Vishal Pande, I aimed to provide users with a seamless experience in crafting personalized and eye-catching resumes.
