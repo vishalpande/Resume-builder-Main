@@ -7,7 +7,7 @@ import MyResumes from "./Pages/MyResumes";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         {/* Home Page Route */}
         <Route exact path="/" element={<Home />} />
